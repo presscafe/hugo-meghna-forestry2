@@ -1,0 +1,25 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: file
+  name: image
+  label: image
+- type: file
+  name: image_webp
+  label: image_webp
+- type: text
+  name: author
+  label: author
+  description: The name of the author defined in the section
+  default: John Doe
