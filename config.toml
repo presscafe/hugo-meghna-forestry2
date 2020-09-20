@@ -2,9 +2,9 @@ baseURL = "/"
 title = "Meghna Starter for Forestry"
 theme = "github.com/themefisher/meghna-hugo"
 # post pagination
-paginate = "6"
+paginate = 6
 # post excerpt
-summaryLength = "15"
+summaryLength = 15
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
